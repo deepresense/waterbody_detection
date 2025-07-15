@@ -1,0 +1,8 @@
+joblib
+opencv-python
+rasterio
+numpy
+tqdm
+xgboost
+scikit-learn
+scikit-optimize
